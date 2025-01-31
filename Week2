@@ -1,0 +1,6 @@
+Data Preprocessing: Describe any preprocessing steps performed, such as handling missing values, scaling data, or feature selection.  
+- Model Building: Explain any improvements to the linear regression model, like tuning hyperparameters or adding meaningful features.  
+- Evaluation Metrics: Mention if you evaluated the model’s accuracy using metrics like RMSE or R² and highlight any changes made based on the evaluation.  
+- Visualization: Highlight any plots or graphs you added to visualize the performance or data trends.  
+Sample Comment:  
+In Week 2, I improved the data preprocessing by normalizing input features and removing outliers. I also refined the linear regression model by selecting the most relevant features and evaluated its performance using R² and RMSE. Additionally, I visualized the predicted vs actual output to assess the model's accuracy.
